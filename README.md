@@ -2,7 +2,6 @@
 
 This repository contains the code and data used by Kelsey Barton-Henry for the completion of the The Data Incubator challenge. 
 
-* The code used for my response to Question 1 of the challenge is contained in *TDI_question1.py*.
 
 The 'Project' directory contains all of the code and data used for my project proof of concept. It contains the following files and directories:  
 
