@@ -1,6 +1,6 @@
 # TDI_challenge
 
-This repository contains the code and data I have used for the completion of the The Data Incubator challenge. 
+This repository contains the code and data used by Kelsey Barton-Henry for the completion of the The Data Incubator challenge. 
 
 * The code used for my response to Question 1 of the challenge is contained in *TDI_question1.py*.
 
