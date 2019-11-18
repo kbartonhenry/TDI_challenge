@@ -1,6 +1,6 @@
-# TDI_challenge
+# Roofs & Solar panels
 
-This repository contains the code and data used by Kelsey Barton-Henry for the completion of the The Data Incubator challenge. 
+This project is aimed at aiding solar power companies to evaluate the viability and production potential of solar panels for a particular home using satellite images. Evaluating the viability of solar panels for a particular home is a labor-intensive process, given that an employee of a solar power company must personally inspect the home and evaluate the roof type and photovoltaic potential of the home. I propose a solution to simplify this process by developing an AI with the ability to pre-screen homes based on roof type and the photovoltaic potential of their geolocation using satellite image data. 
 
 
 The 'Project' directory contains all of the code and data used for my project proof of concept. It contains the following files and directories:  
